@@ -3,7 +3,7 @@
 //////////////////////////////////////////////////////////////////////////////
 
 // This uses my Weapon Manager plugin:
-
+// https://github.com/NotnHeavy/TF2-Weapon-Manager
 
 #pragma semicolon true 
 #pragma newdecls required
